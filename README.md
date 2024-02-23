@@ -40,7 +40,7 @@
 
 
 <details>
-<summary>2️⃣ Mendapatkan Alamat i2c dari LCD</summary>
+<summary>2️⃣ Install Librari yang diperlukan di atas</summary>
 
 ### Jalankan Kode berikut di Arduino IDE setelah merangkai alat
 
