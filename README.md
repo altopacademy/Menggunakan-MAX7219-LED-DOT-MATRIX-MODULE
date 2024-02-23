@@ -3,7 +3,7 @@
 > [!NOTE]
 > Halo semuanya, kali ini kita akan belajar untuk menampilkan sebuah text di Modul Dot Matrix Max7219
 
-![image1](https://github.com/altopacademy/Mendeteksi-sentuhan-pada-logam-dengan-sensor-KY-036-Arduino-UNO-/assets/48623013/8e35fdf6-b919-42fc-b577-2228de127044)
+![image1](./images/image1.png)
 
 
 ## ⚙️ Komponen yang Diperlukan
