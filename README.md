@@ -82,8 +82,8 @@ void loop()
 ```
 
 </details>
-
-<summary>3️4️⃣ Ini Kode kalau ingin Textnya berjalan</summary>
+<details>
+<summary> 4️⃣ Ini Kode kalau ingin Textnya berjalan</summary>
 
   ```C++
 // Use the Parola library to scroll text on the display
